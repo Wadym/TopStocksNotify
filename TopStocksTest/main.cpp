@@ -1,11 +1,3 @@
-// https://www.youtube.com/watch?v=_0aU8S-hFQI
-// double to int (by myltiplying, e.g. 10000)
-// calculate pct in view, less on myltiplication operation with double variable
-// https://github.com/DanielDubi/StaticFlatMap/blob/master/include/FlatMap/StaticFlatMap.hpp
-
-// https://stackoverflow.com/questions/34378709/recommend-c-container-to-hold-top-20-minimum-values
-// https://en.cppreference.com/w/cpp/algorithm/partial_sort
-
 #include <random>
 #include <iostream>
 #include <chrono>
